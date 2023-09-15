@@ -1,0 +1,166 @@
+.card{
+    width: 500px;
+    background-color: aquamarine;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 150px 24px;
+    color: #000;
+    margin: 10px auto;
+
+}
+.heading{
+    font-size: 50px;
+    font-weight: 600;
+}
+.btn{
+    padding: 23px;
+    border: none;
+    border-radius: 15px;
+    background-color: white;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 30px;
+}
+/* card2 */
+
+.profile-card{
+    width: 500px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 15px;
+    margin: 10px auto 20px auto;
+    border: 1px solid lightgray;
+    padding: 30px 15px;
+
+}
+.profile_card_img{
+    border-radius: 100%;
+    width: 23%;
+    height: 125px;
+    margin: 10px 30px;
+
+
+}
+.profile_card_bottom_text{
+    color: #3f83f2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+    font-weight: 300;
+
+}
+.profile_card_bottom{
+    width:500px;
+    border: 1px solid lightgray;
+    border-top: 0px;
+    padding: 30px 15px;
+    border-bottom-left-radius: 8px ;
+    border-bottom-right-radius: 8px;
+    margin: -28px auto;
+
+}
+.profile_text{
+    font-size: 18px;
+   color: gray;
+   margin-bottom: 50px;
+}
+.profile-head{
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 20px;
+
+}
+/* card tast3 */
+.card-text-demo{
+    width: 500px;
+    margin: 10px auto;
+    border: 1px solid lightgray;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+border-radius: 14px;
+}
+.card_img{
+    width: 100%;
+    margin-bottom: 15px;
+    border-top-left-radius: 16px;
+    border-top-right-radius:16px ;
+}
+.card_img_lock{
+    width:20px;
+    height:20px;
+}
+.heading{
+    color: gray;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.card-btn{
+    border: 1px solid lightgray;
+    background-color: white;
+    color: darkblue;
+    font-size: 16px;
+    padding: 16px 20px;
+    border-radius: 6px;
+    margin-top: 3em;
+
+}
+.space{
+    padding-left: 36px;
+}
+.card-text{
+    color: black;
+    font-weight: 400;
+
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.card-body{
+    color: gray;
+
+    font-size: 25px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+
+
+.padding{
+    padding-top: 1em;
+}
+/* card4 assignment */
+.login-form{
+    width:400px;
+    margin: 20px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+
+}
+.input{
+    width: 100%;
+    padding: 11px 10px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border:0.5px solid lightgray;
+    border-radius: 8px;
+
+}
+.login_head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+.login_btn{
+width: 60%;
+background-color: black;
+color: white;
+border-radius: 15px;
+border: none;
+padding: 15px 25px;
+font-size:15px;
+font-weight: 400;
+}
+.login_text{
+    font-weight: 500;
+}
+.c_black{
+    color: black;
+}
